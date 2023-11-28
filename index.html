@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chocolatería App</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+</head>
+
+<body>
+    <Header>
+        <h1>Chocolatería "Chocoadictos"</h1>
+    </Header>
+    <main id="app" class="container">
+        <aside class="category">
+            <div class="chocolate-bar"></div>
+            <h2>Filtrar por categoría:</h2>
+            <label v-for="category in uniqueCategories" :key="category">
+                <input type="checkbox" v-model="selectedCategories" :value="category" @change="handleCategoryChange">
+                {{ category }}
+            </label>
+        </aside>
+        <article class="product .product-card">
+            <h2>Productos</h2>
+            <ul>
+                <li v-for="product in filteredProducts" :key="product.id">
+                    <img :src="product.image" alt="Product Image" style="max-width: 100px; max-height: 100px;">
+                    {{ product.name }} - S/. {{ product.price }}
+                </li>
+            </ul>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2023 Chocoadictos Chocolatería. Todos los derechos reservados.</p>
+        <p>Dirección: Av. Los Chocolates, Ciudad del Cacao</p>
+        <p>Teléfono: +123 456 789</p>
+    </footer>
+    <script src="js/component.js"></script>
+
+</body>
+
+</html>

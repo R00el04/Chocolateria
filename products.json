@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Tableta de chocolate negro 70%",
+    "category": "Chocolate Negro",
+    "price": 5.99,
+    "image": "img/c1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tableta de chocolate con leche",
+    "category": "Chocolate con leche",
+    "price": 12.99,
+    "image": "img/c2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tableta de chocolate blanco",
+    "category": "Chocolate Blanco",
+    "price": 4.49,
+    "image": "img/c3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tableta de chocolate sin azúcar",
+    "category": "Chocolate sin Azucar",
+    "price": 4.49,
+    "image": "img/c4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tableta de chocolate organico",
+    "category": "Chocolate Organico",
+    "price": 4.49,
+    "image": "img/c5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bombones de trufa",
+    "category": "Bombones",
+    "price": 4.49,
+    "image": "img/c6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tableta de chocolate Fondant",
+    "category": "Chocolate Negro",
+    "price": 6.5,
+    "image": "img/c7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tableta de chocolate Negro con Hierbas",
+    "category": "Chocolate Negro",
+    "price": 3.9,
+    "image": "img/c8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tableta de chocolate negro",
+    "category": "Chocolate Negro",
+    "price": 4.0,
+    "image": "img/c9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tableta de chocolate con leche y canela",
+    "category": "Chocolate con leche",
+    "price": 10.5,
+    "image": "img/c10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chocolate con leche en polvo",
+    "category": "Chocolate con leche",
+    "price": 11.99,
+    "image": "img/c11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tableta de chocolate Fondant con leche",
+    "category": "Chocolate con leche",
+    "price": 13.9,
+    "image": "img/c12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tableta de chocolate blanco con relleno",
+    "category": "Chocolate Blanco",
+    "price": 6.5,
+    "image": "img/c13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Tableta de chocolate blanco y Azahar",
+    "category": "Chocolate Blanco",
+    "price": 7.9,
+    "image": "img/c14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Tableta de chocolate blanco y galletas Oreo",
+    "category": "Chocolate Blanco",
+    "price": 10.5,
+    "image": "img/c15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tableta de chocolate sin azúcar de Hershey´s",
+    "category": "Chocolate sin Azucar",
+    "price": 5.5,
+    "image": "img/c16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tableta de chocolate sin azúcar casero",
+    "category": "Chocolate sin Azucar",
+    "price": 6.0,
+    "image": "img/c17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Tableta de chocolate sin azúcar Vive Low Carb",
+    "category": "Chocolate sin Azucar",
+    "price": 5.5,
+    "image": "img/c18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Tableta de chocolate organico con almendra",
+    "category": "Chocolate Organico",
+    "price": 5.0,
+    "image": "img/c19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Chocolate organico en polvo",
+    "category": "Chocolate Organico",
+    "price": 3.5,
+    "image": "img/c20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Tableta de chocolate organico con hierbas",
+    "category": "Chocolate Organico",
+    "price": 5.0,
+    "image": "img/c21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Bombones de chocolate",
+    "category": "Bombones",
+    "price": 3.99,
+    "image": "img/c22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Bombones de chocolate con crema de coco",
+    "category": "Bombones",
+    "price": 5.0,
+    "image": "img/c23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Bombones de chocolate con almendras",
+    "category": "Bombones",
+    "price": 4.5,
+    "image": "img/c24.jpg"
+  }
+]

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b9b9b9;
+    color: #1f1f1f;
+}
+
+header {
+    background-color: #5e2f0e;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.category {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 30%;
+}
+
+.category h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.category label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.product {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 65%;
+}
+
+.product h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.product ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.product li {
+    border: 1px solid #D2691E;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.product li:hover {
+    color: #ffffff;
+    background-color: #5e2f0e;
+    transition: 0.5s;
+}
+
+.product img {
+    margin-right: 10px;
+    vertical-align: middle;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+footer {
+    font-weight: 600;
+    text-align: center;
+}
